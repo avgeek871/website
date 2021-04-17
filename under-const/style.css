@@ -1,0 +1,89 @@
+body {
+    font-family: Helvetica;
+}
+img.socials {
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin: auto;
+}
+h6.socials {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0px;
+    text-align: center;
+}
+h1 {
+    font-weight: bold;
+    text-align: center;
+    font-size: 100px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+    min-width: 550px;
+}
+p {
+    text-align: center;
+    width: 550px;
+    height: 50px;
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    position: relative;
+    top: 80px;
+    background-color: cyan;
+    border: 25px;
+    border-color: cyan;
+    border-radius: 10px;
+    z-index: 1;
+    font-weight: bold;
+}
+button {
+    border: 0;
+    color: white;
+    background-color: skyblue;
+}
+div.col {
+    flex: 33.33%;
+    padding: 5px;
+    max-width: 60px;
+}
+div.row {
+    display: flex;
+    justify-content: center;
+}
+div.colyt {
+    flex: 33.33%;
+    padding: 5px;
+    max-width: 80px;
+}
+div.toplogo img {
+    max-width: 100%;
+    min-width: 550px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+header {
+    background-color: skyblue;
+}
+section {
+    min-height: 533px;
+    background-color: cyan;
+    padding: 15px;
+}
+section img {
+    max-width: 100%;
+    min-width: 550px;
+    height: auto;
+    display: block;
+    margin: auto;
+    z-index: 0;
+    position: relative;
+    bottom: 30px;
+}
+footer {
+    background-color: skyblue;
+    margin-top: 0px;
+}

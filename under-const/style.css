@@ -45,7 +45,7 @@ button {
     background-color: skyblue;
 }
 div.col {
-    flex: 33.33%;
+    flex: 25%;
     padding: 5px;
     max-width: 60px;
 }
@@ -54,7 +54,7 @@ div.row {
     justify-content: center;
 }
 div.colyt {
-    flex: 33.33%;
+    flex: 25%;
     padding: 5px;
     max-width: 80px;
 }
